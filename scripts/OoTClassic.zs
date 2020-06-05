@@ -1,0 +1,8 @@
+import "std.zh"
+import "ffcscript.zh"
+import "stdExtra.zh"
+import "string.zh"
+import "OoTConstants.z"
+import "OoTGlobal.z"
+import "OoTFFC.z"
+import "OoTItems.z"
